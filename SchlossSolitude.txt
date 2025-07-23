@@ -1,2 +1,2 @@
-Render of the project
+Full project - Blender model, Unity AR app project, including the demo video of the app
 https://drive.google.com/drive/folders/1awPRniC9phaSGbRfxy7pUVWz4gmNGRC3?usp=drive_link
